@@ -205,8 +205,8 @@ Aspiring Machine Learning Engineer | Python & Computer Vision Enthusiast
 
 ---
 
-## 📜 License & Usage
+##📜 License
 
-This project is released **for academic and educational use only**.
+This project is licensed under the MIT License.
 
 All predictions are **non-clinical** and must **not** be used for real-world medical decision-making.
